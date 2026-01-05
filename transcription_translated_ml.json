@@ -3,319 +3,338 @@
     {
       "segment": 1,
       "start_time": "00:00:00.000",
-      "end_time": "00:00:00.922",
-      "duration_ms": 922,
+      "end_time": "00:00:00.931",
+      "duration_ms": 931,
       "text": "എന്നോട് ക്ഷമിക്കൂ",
       "language": "en",
       "original_text": "I'm sorry",
-      "translated_language": "ml"
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 2,
-      "start_time": "00:00:02.214",
-      "end_time": "00:00:04.951",
-      "duration_ms": 2737,
+      "start_time": "00:00:02.212",
+      "end_time": "00:00:04.968",
+      "duration_ms": 2756,
       "text": "ഒരു ചക്രവർത്തിയാകാൻ ഞാൻ ആഗ്രഹിക്കുന്നില്ല. അത് എൻ്റെ കാര്യമല്ല.",
       "language": "en",
       "original_text": "I don't want to be an emperor. That's not my business.",
-      "translated_language": "ml"
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 3,
-      "start_time": "00:00:06.171",
-      "end_time": "00:00:07.738",
-      "duration_ms": 1567,
+      "start_time": "00:00:06.168",
+      "end_time": "00:00:07.749",
+      "duration_ms": 1581,
       "text": "ആരെയും ഭരിക്കാനോ കീഴടക്കാനോ ഞാൻ ആഗ്രഹിക്കുന്നില്ല.",
       "language": "en",
       "original_text": "I don't want to rule or conquer anyone.",
-      "translated_language": "ml"
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 4,
-      "start_time": "00:00:08.564",
-      "end_time": "00:00:12.883",
-      "duration_ms": 4319,
-      "text": "കഴിയുമെങ്കിൽ എല്ലാവരെയും സഹായിക്കാൻ ഞാൻ ആഗ്രഹിക്കുന്നു. ച്യൂ, വിജാതീയൻ, കറുത്ത മനുഷ്യൻ, വെള്ള.",
+      "start_time": "00:00:08.561",
+      "end_time": "00:00:12.885",
+      "duration_ms": 4324,
+      "text": "കഴിയുമെങ്കിൽ എല്ലാവരെയും സഹായിക്കാൻ ഞാൻ ആഗ്രഹിക്കുന്നു. ജൂതൻ, വിജാതീയൻ, കറുത്ത മനുഷ്യൻ, വെളുത്തവൻ.",
       "language": "en",
-      "original_text": "I should like to help everyone if possible. Chew, Gentile, Black Man, White.",
-      "translated_language": "ml"
+      "original_text": "I should like to help everyone if possible. Jew, gentile, black man, white.",
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 5,
-      "start_time": "00:00:13.819",
-      "end_time": "00:00:16.399",
-      "duration_ms": 2580,
+      "start_time": "00:00:13.816",
+      "end_time": "00:00:16.406",
+      "duration_ms": 2590,
       "text": "നമ്മൾ എല്ലാവരും പരസ്പരം സഹായിക്കാൻ ആഗ്രഹിക്കുന്നു. മനുഷ്യർ അങ്ങനെയാണ്.",
       "language": "en",
       "original_text": "We all want to help one another. Human beings are like that.",
-      "translated_language": "ml"
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 6,
-      "start_time": "00:00:17.210",
-      "end_time": "00:00:19.415",
-      "duration_ms": 2205,
+      "start_time": "00:00:17.206",
+      "end_time": "00:00:19.428",
+      "duration_ms": 2222,
       "text": "ഞങ്ങൾ പരസ്പരം സന്തോഷത്തോടെ ജീവിക്കാൻ ആഗ്രഹിക്കുന്നു, പരസ്പരം ദുരിതം കൊണ്ടല്ല.",
       "language": "en",
       "original_text": "We want to live by each other's happiness, not by each other's misery.",
-      "translated_language": "ml"
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 7,
-      "start_time": "00:00:20.376",
-      "end_time": "00:00:21.902",
-      "duration_ms": 1526,
+      "start_time": "00:00:20.373",
+      "end_time": "00:00:21.965",
+      "duration_ms": 1592,
       "text": "പരസ്പരം വെറുക്കാനും വെറുക്കാനും ഞങ്ങൾ ആഗ്രഹിക്കുന്നില്ല.",
       "language": "en",
       "original_text": "We don't want to hate and despise one another.",
-      "translated_language": "ml"
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 8,
-      "start_time": "00:00:22.795",
-      "end_time": "00:00:27.193",
-      "duration_ms": 4398,
-      "text": "ഈ ലോകത്ത് എല്ലാവർക്കും ഇടമുണ്ട്, നല്ല ഭൂമി സമ്പന്നമാണ്, എല്ലാവർക്കും നൽകാൻ കഴിയും.",
+      "start_time": "00:00:22.791",
+      "end_time": "00:00:27.200",
+      "duration_ms": 4409,
+      "text": "ഈ ലോകം എല്ലാവർക്കും ഇടമാണ്, നല്ല ഭൂമി സമ്പന്നമാണ്, എല്ലാവർക്കും നൽകാൻ കഴിയും.",
       "language": "en",
-      "original_text": "In this world there's room for everyone, and the good earth is rich, and can provide for everyone.",
-      "translated_language": "ml"
+      "original_text": "And this world is room for everyone, and the good earth is rich, and can provide for everyone.",
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 9,
-      "start_time": "00:00:27.831",
-      "end_time": "00:00:29.738",
-      "duration_ms": 1907,
+      "start_time": "00:00:27.830",
+      "end_time": "00:00:29.747",
+      "duration_ms": 1917,
       "text": "ജീവിതരീതി സ്വതന്ത്രവും മനോഹരവുമാകാം.",
       "language": "en",
-      "original_text": "way of life can be free and beautiful.",
-      "translated_language": "ml"
+      "original_text": "The way of life can be free and beautiful.",
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 10,
-      "start_time": "00:00:30.784",
-      "end_time": "00:00:31.797",
-      "duration_ms": 1013,
+      "start_time": "00:00:30.782",
+      "end_time": "00:00:31.805",
+      "duration_ms": 1023,
       "text": "നമുക്ക് വഴി നഷ്ടപ്പെട്ടു എന്ന്.",
       "language": "en",
       "original_text": "that we have lost the way.",
-      "translated_language": "ml"
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 11,
-      "start_time": "00:00:32.835",
-      "end_time": "00:00:34.797",
-      "duration_ms": 1962,
-      "text": "റീഡ് മനുഷ്യരുടെ ആത്മാവിനെ വിഷലിപ്തമാക്കി.",
+      "start_time": "00:00:32.826",
+      "end_time": "00:00:34.804",
+      "duration_ms": 1978,
+      "text": "അത്യാഗ്രഹം മനുഷ്യരുടെ ആത്മാവിനെ വിഷലിപ്തമാക്കിയിരിക്കുന്നു.",
       "language": "en",
-      "original_text": "Reed has poisoned men's souls.",
-      "translated_language": "ml"
+      "original_text": "greed has poisoned men's souls.",
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 12,
-      "start_time": "00:00:35.424",
-      "end_time": "00:00:37.026",
-      "duration_ms": 1602,
+      "start_time": "00:00:35.422",
+      "end_time": "00:00:37.034",
+      "duration_ms": 1612,
       "text": "വെറുപ്പുകൊണ്ട് ലോകത്തെ തടഞ്ഞതുപോലെ.",
       "language": "en",
       "original_text": "as barricaded the world with hate.",
-      "translated_language": "ml"
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 13,
-      "start_time": "00:00:37.672",
-      "end_time": "00:00:39.752",
-      "duration_ms": 2080,
+      "start_time": "00:00:37.627",
+      "end_time": "00:00:39.753",
+      "duration_ms": 2126,
       "text": "Goose ഞങ്ങളെ ദുരിതത്തിലേക്കും രക്തച്ചൊരിച്ചിലിലേക്കും നയിച്ചതുപോലെ.",
       "language": "en",
       "original_text": "as goose stepped us into misery and bloodshed.",
-      "translated_language": "ml"
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 14,
-      "start_time": "00:00:40.540",
-      "end_time": "00:00:52.701",
-      "duration_ms": 12161,
+      "start_time": "00:00:40.539",
+      "end_time": "00:00:52.710",
+      "duration_ms": 12171,
       "text": "ഞങ്ങൾ വേഗത വികസിപ്പിച്ചെടുത്തിട്ടുണ്ട്, പക്ഷേ ഞങ്ങൾ സ്വയം അടച്ചുപൂട്ടിയിരിക്കുകയാണ്. സമൃദ്ധി നൽകുന്ന യന്ത്രങ്ങൾ നമ്മെ ഇല്ലായ്മയിലാക്കി. നമ്മുടെ അറിവ് നമ്മെ വിഡ്ഢികളാക്കിയിരിക്കുന്നു. ഞങ്ങളുടെ മിടുക്ക് കഠിനവും ദയയില്ലാത്തതുമാണ്. നമ്മൾ വളരെയധികം ചിന്തിക്കുകയും വളരെ കുറച്ച് തോന്നുകയും ചെയ്യുന്നു.",
       "language": "en",
       "original_text": "We have developed speed, but we have shut ourselves in. Machinery that gives abundance has left us in want. Our knowledge has made us cynical. Our cleverness hard and unkind. We think too much and feel too little.",
-      "translated_language": "ml"
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 15,
-      "start_time": "00:00:53.431",
-      "end_time": "00:01:03.060",
-      "duration_ms": 9629,
+      "start_time": "00:00:53.429",
+      "end_time": "00:01:03.069",
+      "duration_ms": 9640,
       "text": "കൂടുതൽ യന്ത്രങ്ങൾ, നമുക്ക് മനുഷ്യത്വം ആവശ്യമാണ്. ബുദ്ധിയേക്കാൾ കൂടുതൽ നമുക്ക് വേണ്ടത് ദയയും സൗമ്യതയും ആണ്. ഈ ഗുണങ്ങൾ ഇല്ലെങ്കിൽ, ജീവിതം അക്രമാസക്തമാകും, എല്ലാം നഷ്ടപ്പെടും.",
       "language": "en",
       "original_text": "More the machinery, we need humanity. More than cleverness, we need kindness and gentleness. Without these qualities, life will be violent and all will be lost.",
-      "translated_language": "ml"
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 16,
-      "start_time": "00:01:03.751",
-      "end_time": "00:01:18.326",
-      "duration_ms": 14575,
+      "start_time": "00:01:03.749",
+      "end_time": "00:01:18.369",
+      "duration_ms": 14620,
       "text": "വിമാനവും റേഡിയോയും ഞങ്ങളെ കൂടുതൽ അടുപ്പിച്ചു. ഈ കണ്ടുപിടുത്തങ്ങളുടെ സ്വഭാവം തന്നെ മനുഷ്യരിലെ നന്മയ്ക്കായി നിലവിളിക്കുന്നു, സാർവത്രിക സാഹോദര്യത്തിനായി, നമ്മുടെ എല്ലാവരുടെയും ഐക്യത്തിനായി നിലവിളിക്കുന്നു. ഇപ്പോൾ പോലും, എൻ്റെ ശബ്ദം ലോകമെമ്പാടുമുള്ള ദശലക്ഷക്കണക്കിന്, നിരാശരായ ദശലക്ഷക്കണക്കിന് പുരുഷന്മാരിലേക്കും സ്ത്രീകളിലേക്കും കൊച്ചുകുട്ടികളിലേക്കും എത്തുന്നു.",
       "language": "en",
       "original_text": "The airplane and the radio have brought us closer together. The very nature of these inventions cries out for the goodness in men, cries out for universal brotherhood, for the unity of us all. Even now, my voice is reaching millions throughout the world, millions of despairing men, women, and little children.",
-      "translated_language": "ml"
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 17,
-      "start_time": "00:01:19.027",
-      "end_time": "00:01:23.026",
-      "duration_ms": 3999,
+      "start_time": "00:01:19.026",
+      "end_time": "00:01:23.032",
+      "duration_ms": 4006,
       "text": "നിരപരാധികളെ പീഡിപ്പിക്കുകയും തടവിലിടുകയും ചെയ്യുന്ന ഒരു വ്യവസ്ഥിതിയുടെ ഇരകൾ.",
       "language": "en",
       "original_text": "victims of a system that makes men torture and imprison innocent people.",
-      "translated_language": "ml"
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 18,
-      "start_time": "00:01:24.021",
-      "end_time": "00:01:44.010",
-      "duration_ms": 19989,
+      "start_time": "00:01:24.018",
+      "end_time": "00:01:44.015",
+      "duration_ms": 19997,
       "text": "എന്നെ കേൾക്കാൻ കഴിയുന്നവരോട് ഞാൻ പറയുന്നു, നിരാശപ്പെടരുത്. ഇപ്പോൾ നമുക്കുണ്ടായിരിക്കുന്ന ദുരിതം അത്യാഗ്രഹത്തിൻ്റെ കടന്നുപോകൽ മാത്രമാണ്, മനുഷ്യ പുരോഗതിയുടെ വഴിയെ ഭയപ്പെടുന്ന മനുഷ്യരുടെ കയ്പാണ്. മനുഷ്യരുടെ വിദ്വേഷം കടന്നുപോകുകയും സ്വേച്ഛാധിപതികൾ മരിക്കുകയും ചെയ്യും. ജനങ്ങളിൽ നിന്ന് അവർ സ്വീകരിച്ച അധികാരം ജനങ്ങളിലേക്ക് തിരികെയെത്തും. മനുഷ്യൻ മരിക്കുന്നിടത്തോളം സ്വാതന്ത്ര്യം ഒരിക്കലും നശിക്കുകയില്ല.",
       "language": "en",
       "original_text": "To those who can hear me, I say, do not despair. The misery that is now upon us is but the passing of greed, the bitterness of men who fear the way of human progress. The hate of men will pass and dictators die. And the power they took from the people will return to the people. And so long as men die, liberty will never perish.",
-      "translated_language": "ml"
+      "translated_language": "ml",
+      "translator_used": "google"
     },
     {
       "segment": 19,
-      "start_time": "00:01:45.784",
-      "end_time": "00:03:28.042",
-      "duration_ms": 102258,
-      "text": "പടയാളികളേ, ക്രൂരന്മാർക്ക് സ്വയം കൊടുക്കരുത്. നിങ്ങളെ നിന്ദിക്കുകയും നിങ്ങളെ അടിമയാക്കുകയും നിങ്ങളുടെ ജീവിതത്തെ കീഴ്പ്പെടുത്തുകയും ചെയ്യുന്നവർ, എന്താണ് ചെയ്യേണ്ടതെന്നും എന്താണ് ചിന്തിക്കേണ്ടതെന്നും എന്ത് അനുഭവിക്കണമെന്നും നിങ്ങളോട് പറയുന്നു, ആരാണ് നിങ്ങളെ തുരത്തുന്നത്, ഭക്ഷണക്രമം പാലിക്കുന്നു, നിങ്ങളെ കന്നുകാലികളെപ്പോലെ പരിഗണിക്കുന്നു, നിങ്ങളെ പീരങ്കിയായി ഉപയോഗിക്കുന്നു. യന്ത്രമനസ്സുകളും യന്ത്രഹൃദയങ്ങളുമുള്ള ഈ അസ്വാഭാവിക മനുഷ്യർക്ക്, യന്ത്രമനുഷ്യർക്ക് സ്വയം നൽകരുത്. നിങ്ങൾ യന്ത്രങ്ങളല്ല. നിങ്ങൾ കന്നുകാലികളല്ല. നിങ്ങൾ പുരുഷന്മാരാണ്. നിങ്ങളുടെ ഹൃദയത്തിൽ മനുഷ്യസ്‌നേഹമുണ്ട്. നിങ്ങൾ വെറുക്കുന്നില്ല, സ്നേഹിക്കാത്ത വെറുപ്പ്, സ്നേഹിക്കാത്തതും പ്രകൃതിവിരുദ്ധവുമായത് മാത്രം. പട്ടാളക്കാരേ, അടിമത്തത്തിനുവേണ്ടി പോരാടരുത്. സ്വാതന്ത്ര്യത്തിനു വേണ്ടി പോരാടുക. വിശുദ്ധ ലൂക്കോസിൻ്റെ 17-ാം അദ്ധ്യായത്തിൽ ദൈവരാജ്യം മനുഷ്യനുള്ളിലാണ്, ഒരു മനുഷ്യനോ ഒരു കൂട്ടം മനുഷ്യരോ അല്ല എന്ന് എഴുതിയിരിക്കുന്നു. എന്നാൽ എല്ലാ മനുഷ്യരിലും, നിങ്ങളിൽ, നിങ്ങൾ ജനങ്ങൾക്ക് ശക്തിയുണ്ട്. യന്ത്രങ്ങളെ സൃഷ്ടിക്കാനുള്ള ശക്തി, സന്തോഷം സൃഷ്ടിക്കാനുള്ള ശക്തി. ഈ ജീവിതം സ്വതന്ത്രവും മനോഹരവുമാക്കാനും ഈ ജീവിതം ഒരു അത്ഭുതകരമായ സാഹസികത ആക്കാനും ജനങ്ങൾക്ക് നിങ്ങൾക്ക് ശക്തിയുണ്ട്. എങ്കിൽ ജനാധിപത്യത്തിൻ്റെ പേരിൽ നമുക്ക് ആ അധികാരം ഉപയോഗിക്കാം. നമുക്കെല്ലാവർക്കും ഒന്നിക്കാം. പുരുഷന്മാർക്ക് ജോലി ചെയ്യാനുള്ള അവസരം നൽകുന്ന, യുവാക്കൾക്ക് ഭാവിയും വാർദ്ധക്യത്തിന് സുരക്ഷിതത്വവും നൽകുന്ന ഒരു പുതിയ ലോകത്തിനായി, മാന്യമായ ഒരു ലോകത്തിനായി നമുക്ക് പോരാടാം. ഈ കാര്യങ്ങളുടെ വാഗ്ദാനത്താൽ, ക്രൂരന്മാർ അധികാരത്തിലേക്ക് ഉയർന്നു. പക്ഷേ അവർ കള്ളം പറയുന്നു. ആ വാഗ്ദാനം അവർ പാലിക്കുന്നില്ല. അവർ ഒരിക്കലും ചെയ്യില്ല. സ്വേച്ഛാധിപതികൾ സ്വയം സ്വതന്ത്രരാകുന്നു. എന്നാൽ അവർ ജനങ്ങളെ അടിമകളാക്കുന്നു. ഇനി നമുക്ക് ആ വാഗ്ദാനം നിറവേറ്റാൻ പോരാടാം. ലോകത്തെ മോചിപ്പിക്കാൻ, ദേശീയ തടസ്സങ്ങൾ ഇല്ലാതാക്കാൻ, അത്യാഗ്രഹം ഇല്ലാതാക്കാൻ, വിദ്വേഷവും അസഹിഷ്ണുതയും ഇല്ലാതാക്കാൻ നമുക്ക് പോരാടാം. ശാസ്ത്രവും പുരോഗതിയും എല്ലാ മനുഷ്യരുടെയും സന്തോഷത്തിലേക്ക് നയിക്കുന്ന യുക്തിയുടെ ലോകത്തിനായി നമുക്ക് പോരാടാം. സൈനികരേ, ജനാധിപത്യത്തിൻ്റെ പേരിൽ നമുക്കെല്ലാം ഒന്നിക്കാം.",
+      "start_time": "00:01:45.781",
+      "end_time": "00:03:28.050",
+      "duration_ms": 102269,
+      "text": "പടയാളികളേ, ക്രൂരന്മാർക്ക് സ്വയം കൊടുക്കരുത്. നിങ്ങളെ നിന്ദിക്കുകയും അടിമപ്പെടുത്തുകയും ചെയ്യുന്ന, നിങ്ങളുടെ ജീവിതം റെജിമെൻ്റ് ചെയ്യുന്നവർ, എന്താണ് ചെയ്യേണ്ടതെന്നും എന്താണ് ചിന്തിക്കേണ്ടതെന്നും എന്ത് അനുഭവിക്കണമെന്നും നിങ്ങളോട് പറയുന്നു, ആരാണ് നിങ്ങളെ തുരത്തുന്നത്, ഭക്ഷണക്രമം പാലിക്കുന്നു, നിങ്ങളെ കന്നുകാലികളെപ്പോലെ പരിഗണിക്കുന്നു, നിങ്ങളെ പീരങ്കിയായി ഉപയോഗിക്കുന്നു. ഈ അസ്വാഭാവിക മനുഷ്യർക്ക്, യന്ത്ര മനസ്സും യന്ത്ര ഹൃദയവുമുള്ള യന്ത്രമനുഷ്യർക്ക് സ്വയം കൊടുക്കരുത്. നിങ്ങൾ യന്ത്രങ്ങളല്ല, കന്നുകാലികളല്ല, മനുഷ്യരാണ്. നിങ്ങളുടെ ഹൃദയത്തിൽ മനുഷ്യസ്‌നേഹമുണ്ട്. ഇഷ്ടപ്പെടാത്ത വെറുപ്പിനെയും സ്നേഹിക്കാത്തതിനെയും പ്രകൃതിവിരുദ്ധമായതിനെയും മാത്രം നിങ്ങൾ വെറുക്കുന്നില്ല. പട്ടാളക്കാരേ, അടിമത്തത്തിന് വേണ്ടി പോരാടരുത്, സ്വാതന്ത്ര്യത്തിന് വേണ്ടി പോരാടുക. വിശുദ്ധ ലൂക്കോസിൻ്റെ 17-ാം അധ്യായത്തിൽ, ദൈവരാജ്യം മനുഷ്യനുള്ളിൽ, ഒരു മനുഷ്യനോ ഒരു കൂട്ടം മനുഷ്യരോ അല്ല, എല്ലാ മനുഷ്യരിലും നിങ്ങളിൽ ഉണ്ടെന്ന് എഴുതിയിരിക്കുന്നു. ജനങ്ങളായ നിങ്ങൾക്കാണ് അധികാരം. യന്ത്രങ്ങളെ സൃഷ്ടിക്കാനുള്ള ശക്തി, സന്തോഷം സൃഷ്ടിക്കാനുള്ള ശക്തി. ഈ ജീവിതം സ്വതന്ത്രവും മനോഹരവുമാക്കാനും ഈ ജീവിതം ഒരു അത്ഭുതകരമായ സാഹസികത ആക്കാനും ജനങ്ങളായ നിങ്ങൾക്ക് ശക്തിയുണ്ട്. എങ്കിൽ ജനാധിപത്യത്തിൻ്റെ പേരിൽ നമുക്ക് ആ അധികാരം ഉപയോഗിക്കാം. നമുക്കെല്ലാവർക്കും ഒന്നിക്കാം. പുരുഷന്മാർക്ക് ജോലി ചെയ്യാനുള്ള അവസരം നൽകുന്ന, യുവാക്കൾക്ക് ഭാവിയും വാർദ്ധക്യത്തിന് സുരക്ഷിതത്വവും നൽകുന്ന ഒരു പുതിയ ലോകത്തിനായി, മാന്യമായ ഒരു ലോകത്തിനായി നമുക്ക് പോരാടാം. ഈ കാര്യങ്ങളുടെ വാഗ്ദാനത്താൽ, ക്രൂരന്മാർ അധികാരത്തിലേക്ക് ഉയർന്നു, പക്ഷേ അവർ കള്ളം പറയുന്നു, അവർ ആ വാഗ്ദാനം നിറവേറ്റുന്നില്ല, അവർ ഒരിക്കലും ചെയ്യില്ല, സ്വേച്ഛാധിപതികൾ സ്വയം മോചിപ്പിക്കുന്നു, പക്ഷേ അവർ ജനങ്ങളെ അടിമകളാക്കുന്നു. ഇനി നമുക്ക് ആ വാഗ്ദാനം നിറവേറ്റാൻ പോരാടാം. ലോകത്തെ മോചിപ്പിക്കാൻ, ദേശീയ തടസ്സങ്ങൾ ഇല്ലാതാക്കാൻ, അത്യാഗ്രഹം ഇല്ലാതാക്കാൻ, വിദ്വേഷവും അസഹിഷ്ണുതയും ഇല്ലാതാക്കാൻ നമുക്ക് പോരാടാം. ശാസ്ത്രവും പുരോഗതിയും എല്ലാ മനുഷ്യരുടെയും സന്തോഷത്തിലേക്ക് നയിക്കുന്ന യുക്തിയുടെ ലോകത്തിനായി നമുക്ക് പോരാടാം. സൈനികരേ, ജനാധിപത്യത്തിൻ്റെ പേരിൽ നമുക്കെല്ലാം ഒന്നിക്കാം.",
       "language": "en",
-      "original_text": "Soldiers, don't give yourselves to brutes. Men who despise you and slave you, who regiment your lives, tell you what to do, what to think, and what to feel, who drill you, diet you, treat you like cattle, use you as cannon fodder. Don't give yourselves to these unnatural men, machine men, with machine minds and machine hearts. You are not machines. You are not cattle. You are men. You have the love of humanity in your hearts. You don't hate, only the unloved hate, the unloved and the unnatural. Soldiers, don't fight for slavery. Fight for liberty. In the 17th chapter of St. Luke it is written, the kingdom of God is within man, not one man, nor a group of men. But in all men, in you, you the people have the power. The power to create machines, the power to create happiness. You the people have the power to make this life free and beautiful, to make this life a wonderful adventure. Then in the name of democracy, let us use that power. Let us all unite. Let us fight for a new world, a decent world, that will give men a chance to work, that will give youth a future and old age a security. By the promise of these things, brutes have risen to power. But they lie. They do not fulfill that promise. They never will. Dictators free themselves. But they enslave the people. Now let us fight to fulfill that promise. Let us fight to free the world, to do away with national barriers, to do away with greed, with hate and intolerance. Let us fight for a world of reason, a world where science and progress will lead to all men's happiness. Soldiers, in the name of democracy, let us all unite.",
-      "translated_language": "ml"
+      "original_text": "Soldiers, don't give yourselves to brutes. Men who despise you and slave you, who regiment your lives, tell you what to do, what to think and what to feel, who drill you, diet you, treat you like cattle, use you as cannon fodder. Don't give yourselves to these unnatural men, machine men with machine minds and machine hearts. You are not machines, you are not cattle, you are men. You have the love of humanity in your hearts. You don't hate only the unloved hate, the unloved and the unnatural. Soldiers, don't fight for slavery, fight for liberty. In the 17th chapter of St. Luke it is written, the kingdom of God is within man, not one man, nor a group of men, but in all men, in you. You, the people, have the power. The power to create machines, the power to create happiness. You, the people, have the power to make this life free and beautiful, to make this life a wonderful adventure. Then in the name of democracy, let us use that power. Let us all unite. Let us fight for a new world, a decent world, that will give men a chance to work, that will give youth a future and old age a security. By the promise of these things, brutes have risen to power, but they lie, they do not fulfill that promise, they never will, dictators free themselves, but they enslave the people. Now let us fight to fulfill that promise. Let us fight to free the world, to do away with national barriers, to do away with greed, with hate and intolerance. Let us fight for a world of reason, a world where science and progress will lead to all men's happiness. Soldiers, in the name of democracy, let us all unite.",
+      "translated_language": "ml",
+      "translator_used": "google"
     }
   ],
   "pauses": [
     {
       "after_segment": 1,
-      "start_time": "00:00:00.922",
-      "end_time": "00:00:02.214",
-      "duration_ms": 1292,
-      "duration_seconds": 1.29
+      "start_time": "00:00:00.931",
+      "end_time": "00:00:02.212",
+      "duration_ms": 1281,
+      "duration_seconds": 1.28
     },
     {
       "after_segment": 2,
-      "start_time": "00:00:04.951",
-      "end_time": "00:00:06.171",
-      "duration_ms": 1220,
-      "duration_seconds": 1.22
+      "start_time": "00:00:04.968",
+      "end_time": "00:00:06.168",
+      "duration_ms": 1200,
+      "duration_seconds": 1.2
     },
     {
       "after_segment": 3,
-      "start_time": "00:00:07.738",
-      "end_time": "00:00:08.564",
+      "start_time": "00:00:07.749",
+      "end_time": "00:00:08.561",
+      "duration_ms": 812,
+      "duration_seconds": 0.81
+    },
+    {
+      "after_segment": 4,
+      "start_time": "00:00:12.885",
+      "end_time": "00:00:13.816",
+      "duration_ms": 931,
+      "duration_seconds": 0.93
+    },
+    {
+      "after_segment": 5,
+      "start_time": "00:00:16.406",
+      "end_time": "00:00:17.206",
+      "duration_ms": 800,
+      "duration_seconds": 0.8
+    },
+    {
+      "after_segment": 6,
+      "start_time": "00:00:19.428",
+      "end_time": "00:00:20.373",
+      "duration_ms": 945,
+      "duration_seconds": 0.94
+    },
+    {
+      "after_segment": 7,
+      "start_time": "00:00:21.965",
+      "end_time": "00:00:22.791",
       "duration_ms": 826,
       "duration_seconds": 0.83
     },
     {
-      "after_segment": 4,
-      "start_time": "00:00:12.883",
-      "end_time": "00:00:13.819",
-      "duration_ms": 936,
-      "duration_seconds": 0.94
-    },
-    {
-      "after_segment": 5,
-      "start_time": "00:00:16.399",
-      "end_time": "00:00:17.210",
-      "duration_ms": 811,
-      "duration_seconds": 0.81
-    },
-    {
-      "after_segment": 6,
-      "start_time": "00:00:19.415",
-      "end_time": "00:00:20.376",
-      "duration_ms": 961,
-      "duration_seconds": 0.96
-    },
-    {
-      "after_segment": 7,
-      "start_time": "00:00:21.902",
-      "end_time": "00:00:22.795",
-      "duration_ms": 893,
-      "duration_seconds": 0.89
-    },
-    {
       "after_segment": 8,
-      "start_time": "00:00:27.193",
-      "end_time": "00:00:27.831",
-      "duration_ms": 638,
-      "duration_seconds": 0.64
-    },
-    {
-      "after_segment": 9,
-      "start_time": "00:00:29.738",
-      "end_time": "00:00:30.784",
-      "duration_ms": 1046,
-      "duration_seconds": 1.05
-    },
-    {
-      "after_segment": 10,
-      "start_time": "00:00:31.797",
-      "end_time": "00:00:32.835",
-      "duration_ms": 1038,
-      "duration_seconds": 1.04
-    },
-    {
-      "after_segment": 11,
-      "start_time": "00:00:34.797",
-      "end_time": "00:00:35.424",
-      "duration_ms": 627,
+      "start_time": "00:00:27.200",
+      "end_time": "00:00:27.830",
+      "duration_ms": 630,
       "duration_seconds": 0.63
     },
     {
+      "after_segment": 9,
+      "start_time": "00:00:29.747",
+      "end_time": "00:00:30.782",
+      "duration_ms": 1035,
+      "duration_seconds": 1.03
+    },
+    {
+      "after_segment": 10,
+      "start_time": "00:00:31.805",
+      "end_time": "00:00:32.826",
+      "duration_ms": 1021,
+      "duration_seconds": 1.02
+    },
+    {
+      "after_segment": 11,
+      "start_time": "00:00:34.804",
+      "end_time": "00:00:35.422",
+      "duration_ms": 618,
+      "duration_seconds": 0.62
+    },
+    {
       "after_segment": 12,
-      "start_time": "00:00:37.026",
-      "end_time": "00:00:37.672",
-      "duration_ms": 646,
-      "duration_seconds": 0.65
+      "start_time": "00:00:37.034",
+      "end_time": "00:00:37.627",
+      "duration_ms": 593,
+      "duration_seconds": 0.59
     },
     {
       "after_segment": 13,
-      "start_time": "00:00:39.752",
-      "end_time": "00:00:40.540",
-      "duration_ms": 788,
+      "start_time": "00:00:39.753",
+      "end_time": "00:00:40.539",
+      "duration_ms": 786,
       "duration_seconds": 0.79
     },
     {
       "after_segment": 14,
-      "start_time": "00:00:52.701",
-      "end_time": "00:00:53.431",
-      "duration_ms": 730,
-      "duration_seconds": 0.73
+      "start_time": "00:00:52.710",
+      "end_time": "00:00:53.429",
+      "duration_ms": 719,
+      "duration_seconds": 0.72
     },
     {
       "after_segment": 15,
-      "start_time": "00:01:03.060",
-      "end_time": "00:01:03.751",
-      "duration_ms": 691,
-      "duration_seconds": 0.69
+      "start_time": "00:01:03.069",
+      "end_time": "00:01:03.749",
+      "duration_ms": 680,
+      "duration_seconds": 0.68
     },
     {
       "after_segment": 16,
-      "start_time": "00:01:18.326",
-      "end_time": "00:01:19.027",
-      "duration_ms": 701,
-      "duration_seconds": 0.7
+      "start_time": "00:01:18.369",
+      "end_time": "00:01:19.026",
+      "duration_ms": 657,
+      "duration_seconds": 0.66
     },
     {
       "after_segment": 17,
-      "start_time": "00:01:23.026",
-      "end_time": "00:01:24.021",
-      "duration_ms": 995,
+      "start_time": "00:01:23.032",
+      "end_time": "00:01:24.018",
+      "duration_ms": 986,
       "duration_seconds": 0.99
     },
     {
       "after_segment": 18,
-      "start_time": "00:01:44.010",
-      "end_time": "00:01:45.784",
-      "duration_ms": 1774,
+      "start_time": "00:01:44.015",
+      "end_time": "00:01:45.781",
+      "duration_ms": 1766,
       "duration_seconds": 1.77
     }
   ],
@@ -325,6 +344,8 @@
   "translation_info": {
     "source_language": "en",
     "target_language": "ml",
-    "translator": "GoogleTranslator"
+    "translator": "google",
+    "successful_translations": 19,
+    "failed_translations": 0
   }
 }

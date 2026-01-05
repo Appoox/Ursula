@@ -33,29 +33,49 @@ def main():
 
     # Input file (your transcription output)
     input_file = "transcription_output.json"
+    target_language = 'ml'  # Malayalam
     
-    # Target language - change this to your desired language
-    # Examples: 'es' (Spanish), 'fr' (French), 'de' (German), 
-    #           'hi' (Hindi), 'zh-CN' (Chinese), 'ja' (Japanese)
-    target_language = 'ml'  # Spanish
+    # Choose your translator:
+    
+    # Option 1: MyMemory (RECOMMENDED for Malayalam - free, good for Indian languages)
+    translator = translate.TranslatorType.GOOGLE
+    api_key = None
+    
+    # Option 2: Google Translate (fallback)
+    # translator = TranslatorType.GOOGLE
+    # api_key = None
+    
+    # Option 3: Claude/Anthropic (BEST QUALITY - requires API key)
+    # translator = TranslatorType.ANTHROPIC
+    # api_key = None  # Set via ANTHROPIC_API_KEY environment variable
+    
+    # Option 4: DeepL (high quality but may not support Malayalam)
+    # translator = TranslatorType.DEEPL
+    # api_key = "your_deepl_api_key_here"
+    
+    # Option 5: LibreTranslate (open source)
+    # translator = TranslatorType.LIBRE
+    # api_key = None  # or your API key if using paid instance
     
     # Output files
     output_json = f"transcription_translated_{target_language}.json"
     output_srt = f"subtitles_translated_{target_language}.srt"
     output_bilingual_srt = f"subtitles_bilingual_{target_language}.srt"
     
-    # Translate the transcription
+    # Translate
     translated_data = translate.translate_transcription(
         input_file=input_file,
         output_file=output_json,
         target_language=target_language,
-        source_language='en'
+        source_language='en',
+        translator_type=translator,
+        api_key=api_key
     )
     
     # Print summary
     translate.print_translation_summary(translated_data)
     
-    # Export to SRT formats
+    # Export to SRT
     translate.export_translated_srt(translated_data, output_srt)
     translate.create_bilingual_srt(translated_data, output_bilingual_srt)
     
