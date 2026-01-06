@@ -90,7 +90,7 @@ def transcribe_with_pauses(audio_file, model_size="base", min_silence_len=500,
         segment = audio[start:end]
         
         # Export to temporary wav
-        temp_file = "temp_segment.wav"
+        temp_file = "Media/temp_segment.wav"
         segment.export(temp_file, format="wav")
         
         # Transcribe with Whisper
