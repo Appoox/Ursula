@@ -4,7 +4,7 @@ from TTS import tts
 
 def main():
     # Replace with your audio file path
-    audio_file = "Charlie-Chaplin.wav"
+    audio_file = "Media/Charlie-Chaplin.wav"
     
     # Transcribe with Whisper
     # Model sizes: "tiny", "base", "small", "medium", "large"
@@ -27,13 +27,13 @@ def main():
     stt.print_summary(results)
     
     # Save to JSON
-    stt.save_results(results, "transcription_output.json")
+    stt.save_results(results, "Media/transcription_output.json")
     
     # Export to SRT subtitles (optional)
-    stt.export_to_srt(results, "subtitles.srt")
+    stt.export_to_srt(results, "Media/subtitles.srt")
 
     # Input file (your transcription output)
-    input_file = "transcription_output.json"
+    input_file = "Media/transcription_output.json"
     target_language = 'ml'  # Malayalam
     
     # Choose your translator:
@@ -59,9 +59,9 @@ def main():
     # api_key = None  # or your API key if using paid instance
     
     # Output files
-    output_json = f"transcription_translated_{target_language}.json"
-    output_srt = f"subtitles_translated_{target_language}.srt"
-    output_bilingual_srt = f"subtitles_bilingual_{target_language}.srt"
+    output_json = f"Media/transcription_translated_{target_language}.json"
+    output_srt = f"Media/subtitles_translated_{target_language}.srt"
+    output_bilingual_srt = f"Media/subtitles_bilingual_{target_language}.srt"
     
     # Translate
     translated_data = translate.translate_transcription(
@@ -85,7 +85,7 @@ def main():
     print(f"✓ SRT (translated): {output_srt}")
     print(f"✓ SRT (bilingual): {output_bilingual_srt}")
 
-    json_file = "transcription_translated_ml.json"
+    json_file = "Media/transcription_translated_ml.json"
     
     # # Option 1: Malayalam TTS with pauses (recommended)
     # print("=" * 70)
@@ -129,7 +129,7 @@ def main():
     
     tts.create_perfectly_synced_tts(
         json_file=json_file,
-        output_audio="malayalam_perfect_sync.mp3",
+        output_audio="Media/malayalam_perfect_sync.mp3",
         language='ml',
         tts_engine='gtts',
         max_speedup=1.5,  # Allow up to 50% speedup
