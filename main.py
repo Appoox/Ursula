@@ -1,10 +1,41 @@
 from STT import stt
 from Translation import translate
 from TTS import tts
+from Seperator import seperator
 
 def main():
+
+    # Check dependencies
+    if not seperator.check_ffmpeg():
+        print("❌ ffmpeg is not installed. Please install it first.")
+        exit(1)
+    
+    # Example file
+    input_video = "Media/Charlie-Chaplin.mp4"
+    
+    # Example 1: Get media info
+    seperator.print_media_info(input_video)
+    
+    # Example 2: Extract audio only
+    audio = seperator.extract_audio(input_video, "Media/extracted_audio.wav")
+    
+    # Example 3: Extract video without audio
+    # video = extract_video_no_audio(input_video, "video_only.mp4")
+    
+    # Example 4: Extract all audio tracks
+    # all_audio = extract_all_audio_tracks(input_video)
+    
+    # Example 5: Separate everything
+    # all_streams = separate_all_streams(input_video)
+    
+    # Example 6: Combine video with new audio (for dubbing)
+    # combined = combine_video_audio(
+    #     video_file="video_only.mp4",
+    #     audio_file="malayalam_synced.mp3",
+    #     output_file="dubbed_video.mp4"
+    # )
     # Replace with your audio file path
-    audio_file = "Media/Charlie-Chaplin.wav"
+    audio_file = "Media/extracted_audio.wav"
     
     # Transcribe with Whisper
     # Model sizes: "tiny", "base", "small", "medium", "large"
