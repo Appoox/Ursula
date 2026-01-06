@@ -1,5 +1,6 @@
 from STT import stt
 from Translation import translate
+from TTS import tts
 
 def main():
     # Replace with your audio file path
@@ -16,8 +17,8 @@ def main():
     results = stt.transcribe_with_pauses(
         audio_file,
         model_size="small",      # Change to "small" or "medium" for better accuracy
-        min_silence_len=590,    # 500ms minimum pause
-        silence_thresh=-63,     # silence threshold
+        min_silence_len=500,    # 500ms minimum pause
+        silence_thresh=-66,     # silence threshold
         # min_segment_len=1000,    # minimum segment length
         language="en"           # Set to None for auto-detect, or "en", "es", "fr", etc.
     )
@@ -83,6 +84,82 @@ def main():
     print(f"✓ JSON: {output_json}")
     print(f"✓ SRT (translated): {output_srt}")
     print(f"✓ SRT (bilingual): {output_bilingual_srt}")
+
+    json_file = "transcription_translated_ml.json"
+    
+    # # Option 1: Malayalam TTS with pauses (recommended)
+    # print("=" * 70)
+    # print("Creating Malayalam TTS with pauses...")
+    # print("=" * 70)
+    
+    # tts.create_tts_with_pauses(
+    #     json_file=json_file,
+    #     output_audio="malayalam_speech.mp3",
+    #     language='ml',
+    #     use_original=False,  # Use translated text
+    #     tts_engine='gtts'    # Use 'edge' for better quality
+    # )
+    
+    # print("=" * 70)
+    # print("Creating Synchronized Malayalam TTS...")
+    # print("=" * 70)
+    
+    # # Use the new function from tts module
+    # tts.create_synchronized_tts(
+    #     json_file=json_file,
+    #     output_audio="malayalam_synced.mp3",
+    #     language='ml',
+    #     tts_engine='gtts'
+    # )
+
+    # print("=" * 70)
+    # print("Creating STRICTLY Synced Audio...")
+    # print("=" * 70)
+    
+    # tts.create_synchronized_tts(
+    #     json_file="transcription_translated_ml.json", 
+    #     original_audio_file="Charlie-Chaplin.wav",  # Pass the original file here
+    #     output_audio="malayalam_strict_sync.mp3",
+    #     language='ml'
+    # )
+
+    print("="*70)
+    print("PERFECTLY SYNCHRONIZED MALAYALAM TTS")
+    print("="*70)
+    
+    tts.create_perfectly_synced_tts(
+        json_file=json_file,
+        output_audio="malayalam_perfect_sync.mp3",
+        language='ml',
+        tts_engine='gtts',
+        max_speedup=1.5,  # Allow up to 50% speedup
+        use_original=False  # Use translated text
+    )    
+
+    # Option 2: Original English TTS with pauses
+    # print("\n" + "=" * 70)
+    # print("Creating English TTS with pauses...")
+    # print("=" * 70)
+    # 
+    # create_tts_with_pauses(
+    #     json_file=json_file,
+    #     output_audio="english_speech.mp3",
+    #     language='en',
+    #     use_original=True,
+    #     tts_engine='gtts'
+    # )
+    
+    # Option 3: Bilingual (English + Malayalam)
+    # print("\n" + "=" * 70)
+    # print("Creating bilingual TTS...")
+    # print("=" * 70)
+    # 
+    # create_bilingual_tts(
+    #     json_file=json_file,
+    #     output_audio="bilingual_speech.mp3",
+    #     original_lang='en',
+    #     translated_lang='ml'
+    # )
 
 
 if __name__ == "__main__":
