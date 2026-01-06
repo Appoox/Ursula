@@ -17,7 +17,7 @@ def main():
     results = stt.transcribe_with_pauses(
         audio_file,
         model_size="small",      # Change to "small" or "medium" for better accuracy
-        min_silence_len=400,    # 500ms minimum pause
+        min_silence_len=500,    # 500ms minimum pause
         silence_thresh=-66,     # silence threshold
         # min_segment_len=1000,    # minimum segment length
         language="en"           # Set to None for auto-detect, or "en", "es", "fr", etc.
@@ -112,16 +112,29 @@ def main():
     #     tts_engine='gtts'
     # )
 
-    print("=" * 70)
-    print("Creating STRICTLY Synced Audio...")
-    print("=" * 70)
+    # print("=" * 70)
+    # print("Creating STRICTLY Synced Audio...")
+    # print("=" * 70)
     
-    tts.create_synchronized_tts(
-        json_file="transcription_translated_ml.json", 
-        original_audio_file="Charlie-Chaplin.wav",  # Pass the original file here
-        output_audio="malayalam_strict_sync.mp3",
-        language='ml'
-    )
+    # tts.create_synchronized_tts(
+    #     json_file="transcription_translated_ml.json", 
+    #     original_audio_file="Charlie-Chaplin.wav",  # Pass the original file here
+    #     output_audio="malayalam_strict_sync.mp3",
+    #     language='ml'
+    # )
+
+    print("="*70)
+    print("PERFECTLY SYNCHRONIZED MALAYALAM TTS")
+    print("="*70)
+    
+    tts.create_perfectly_synced_tts(
+        json_file=json_file,
+        output_audio="malayalam_perfect_sync.mp3",
+        language='ml',
+        tts_engine='gtts',
+        max_speedup=1.5,  # Allow up to 50% speedup
+        use_original=False  # Use translated text
+    )    
 
     # Option 2: Original English TTS with pauses
     # print("\n" + "=" * 70)
